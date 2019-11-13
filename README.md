@@ -1,4 +1,4 @@
 # Hola-Mundo
-Este es un inteno de arreglar
+Este es un intento de arreglar
 el error pasado
 Y em gusta el café
