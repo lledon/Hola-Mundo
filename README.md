@@ -1,2 +1,3 @@
 # Hola-Mundo
-Solo un respositorio nuevo
+Solo un repositorio nuevo
+hola, me gusta tomar café por las mañanas para arrancar la jornada.
